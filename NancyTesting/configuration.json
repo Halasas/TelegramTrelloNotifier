@@ -1,0 +1,7 @@
+{
+  "TelegramToken": "1267454068:AAEeNwusDtk3CWTS6UaSq-I9tGmzffYXo9s",
+  "TelegramBotName": "@my_trello_alarm_bot",
+  "TrelloApiKey": "f7248eb73728a8eeb6f475f3dc4be851",
+  "PublicURL": "https://28f6a9d5ab7a.ngrok.io",
+  "LocalHost": "http://localhost:80"
+}
