@@ -1,5 +1,7 @@
 # Telegram Trello Notifier
 
+![Preview](/1.png)
+
 This is a backend of Telegram Trello Notifier Bot created by Halasas(aka Lebiafan)
 
 Formulation of the problem
